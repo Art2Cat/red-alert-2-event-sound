@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.art2cat.redalert2eventsound.services
 
+import com.github.art2cat.redalert2eventsound.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
